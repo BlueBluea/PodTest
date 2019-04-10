@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'CustomView for login and logout'
   s.homepage = 'https://github.com/wangleibingkong/PodTest.git'
   s.author             = { "CaesarWang" => "wanglei@bingkongtech.com" }
-  s.source   = { :git => 'https://github.com/wangleibingkong/PodTest.git', :tag => s.version }
+  s.source   = { :git => 'https://github.com/wangleibingkong/PodTest.git' }
   s.source_files = 'PodTest/PodTest/*.swift'
   s.requires_arc = true
   s.ios.deployment_target = '8.0'
