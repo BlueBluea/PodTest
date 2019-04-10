@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/wangleibingkong/PodTest.git'
   s.author             = { "CaesarWang" => "wanglei@bingkongtech.com" }
   s.source   = { :git => 'https://github.com/wangleibingkong/PodTest.git' }
-  s.source_files = 'PodTest1/PodTest1/*.swift'
+  s.source_files = 'PodTest/PodTest/*.swift'
   s.requires_arc = true
   s.ios.deployment_target = '8.0'
 
