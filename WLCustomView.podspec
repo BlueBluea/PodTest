@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.license  = 'MIT'
   s.summary  = 'CustomView for login and logout'
   s.homepage = 'https://github.com/wangleibingkong/PodTest.git'
-  spec.author             = { "CaesarWang" => "wanglei@bingkongtech.com" }
+  s.author             = { "CaesarWang" => "wanglei@bingkongtech.com" }
   s.source   = { :git => 'https://github.com/wangleibingkong/PodTest.git', :tag => s.version }
   s.source_files = 'WLCustomeView'
   s.requires_arc = true
